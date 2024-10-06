@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+body {
+    background: linear-gradient(to right, #ffbf5f, #faffb3); 
+    height: 100vh; 
+    margin: 0;    
+}
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
